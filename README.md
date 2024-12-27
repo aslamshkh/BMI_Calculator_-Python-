@@ -14,12 +14,12 @@
 
 A BMI Calculator (Body Mass Index) that allows users to input their "Weight" and "Height" to gain insight of their body BMI classification. 
 
-The project is made through jupyter notebook using python language that uses Kilograms (weight) and Centemeters (height) as perameters to calculate.
+The project is made through jupyter notebook using python language that uses Kilograms (weight) and Centemeters (height) as input perameters for the further BMI calculation.
 
 
 ### Data Source
 
-The calculator format and BMI classification index is borrowed from an online [Source](https://www.calculator.net/bmi-calculator.html) with some changes. 
+The calculator format and BMI classification index is borrowed from an online [Source](https://www.calculator.net/bmi-calculator.htm) with some changes. 
 
 
 | Classification  |	BMI       | 
@@ -86,14 +86,11 @@ else:
 
 
 ### Code Body
-![BMI Calculator](https://github.com/user-attachments/assets/4fb45ed2-8711-444c-86e7-494c3cb728e6)
+![BMI Calculator](https://github.com/aslamshkh/BMI_Calculator_Python/blob/dupe/Code%20Body%20And%20Results.png)
 
 
-
-### Limitations
-
-I had to remove all the zero values from the budget and revenue columns because they would have affected the accuracy of the conclusion from the analysis. There are still a few outlier after being omitted/ However, even then we have seen a positive collaboration between budget and number of votes with revenue. 
-
+> [!NOTE]
+> Some of the data from the Online BMI Index has been removed to make the project short and precise. 
 
 
 
