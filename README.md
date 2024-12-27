@@ -86,7 +86,7 @@ else:
 
 
 ### Code Body
-![BMI Calculator](https://github.com/aslamshkh/BMI_Calculator_Python/blob/dupe/Code%20Body%20And%20Results.png)
+![BMI Calculator](https://github.com/aslamshkh/BMI_Calculator_Python/blob/main/Code%20Body%20And%20Results.png)
 
 
 > [!NOTE]
