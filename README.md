@@ -1,4 +1,4 @@
-# BMI_Calculator_Python
+# BMI Calculator Python
 
 
 ## The Table Of Contents
